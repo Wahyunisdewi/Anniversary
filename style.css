@@ -64,23 +64,6 @@ h2{
     font-size:20px;
 }
 
-button{
-    margin-top:25px;
-    padding:12px 25px;
-    border:none;
-    border-radius:30px;
-    background:white;
-    color:#ff4f81;
-    font-size:16px;
-    cursor:pointer;
-    font-weight:bold;
-    transition:.3s;
-}
-
-button:hover{
-    transform:scale(1.08);
-}
-
 .heart{
     position:absolute;
     color:white;
